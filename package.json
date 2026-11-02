@@ -1,0 +1,25 @@
+{
+  "name": "anadi-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Website - Built with clean HTML, CSS, and JavaScript. Features modular design with Vercel Web Analytics integration.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "preview": "npx serve .",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anadishishir/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anadishishir/portfolio/issues"
+  },
+  "homepage": "https://github.com/anadishishir/portfolio#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
